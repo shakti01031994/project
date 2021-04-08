@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34888" started-at="2021-03-30T09:52:10Z" finished-at="2021-03-30T09:52:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34888" started-at="2021-03-30T09:52:10Z" finished-at="2021-03-30T09:52:45Z">
+      <class name="testNG.Assert">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testNG.Assert@17d99928]" name="setup" is-config="true" duration-ms="22515" started-at="2021-03-30T15:22:10Z" finished-at="2021-03-30T15:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="googleTitle()[pri:0, instance:testNG.Assert@17d99928]" name="googleTitle" duration-ms="144" started-at="2021-03-30T15:22:33Z" finished-at="2021-03-30T15:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNG.Assert@17d99928]" name="tearDown" is-config="true" duration-ms="4293" started-at="2021-03-30T15:22:33Z" finished-at="2021-03-30T15:22:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testNG.Assert@17d99928]" name="setup" is-config="true" duration-ms="5986" started-at="2021-03-30T15:22:37Z" finished-at="2021-03-30T15:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logoText()[pri:0, instance:testNG.Assert@17d99928]" name="logoText" duration-ms="664" started-at="2021-03-30T15:22:43Z" finished-at="2021-03-30T15:22:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNG.Assert@17d99928]" name="tearDown" is-config="true" duration-ms="1262" started-at="2021-03-30T15:22:44Z" finished-at="2021-03-30T15:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG.Assert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
